@@ -25,8 +25,8 @@ Member: Thanh Diem Nguyen
 
 - **sum.test.js & unit.test.js**
   
-   <img src="./Screenshort/Sum%2Bunit_test.png" alt="sum.test.js + unit.test.js"/>
+   <img src="./Screenshot/Sum%2Bunit_test.png" alt="sum.test.js + unit.test.js"/>
 
 - **lab8.test.js**
   
-   <img src="./Screenshort/lab8_test.png" alt="lab8.test.js"/>
+   <img src="./Screenshot/lab8_test.png" alt="lab8.test.js"/>
