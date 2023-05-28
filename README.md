@@ -23,3 +23,10 @@ Member: Thanh Diem Nguyen
 
 ## Screenshot of all tests results from running `npm test`
 
+- **sum.test.js & unit.test.js**
+  
+   <img src="./Screenshort/Sum%2Bunit_test.png" alt="sum.test.js + unit.test.js"/>
+
+- **lab8.test.js**
+  
+   <img src="./Screenshort/lab8_test.png" alt="lab8.test.js"/>
